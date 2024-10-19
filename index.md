@@ -21,7 +21,16 @@ Insert Here
 ---
 
 ## **Code Review** 
-Insert Here
+The following section are hyperlinks link to the code review performed for each of the original code used in the three artifacts. *It should be noted that you must download the .mp4 files to listen*
+
+Part 1: Software Design and Engineering
+- Download and Listen [Code Review 1 - OriginalContact.java and OriginalContactService.java](https://github.com/SkunkApe1/SkunkApe1.github.io/blob/main/CS499%20Section%201%20Final.mp4)
+
+Part 2: Algorithms and Data Structures
+- Download and Listen [Code Review 2 - OriginalGpiointerrupt.c](https://github.com/SkunkApe1/SkunkApe1.github.io/blob/main/CS499%20compressed%20%20Section%202%20Recording%20-%20Copy.mp4)
+
+Part 3: Databases
+- Download and Listen [Code Review 3 - Pseudocode](https://github.com/SkunkApe1/SkunkApe1.github.io/blob/main/CS499%20Section%203%20Final.mp4)
 
 ---
 
