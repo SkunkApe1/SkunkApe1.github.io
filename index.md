@@ -1,6 +1,8 @@
 # **Graham Swenson - ePortfolio**
 **CS-499 . SNHU . OCT 2024**
 
+My name is Graham Swenson and I am a Computer Science student at Southern New Hampshire University. I am excited to show you a culmination of the experience I've gained during my studies. In this ePortfolio you will see the following sections.
+
 ---
 
 ## **Professional Self-Assessment**
