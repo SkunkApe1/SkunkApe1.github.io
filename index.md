@@ -51,7 +51,7 @@ Part 3: Databases
 - Enhanced Version [Contact.java](https://github.com/SkunkApe1/SkunkApe1.github.io/blob/main/Contact.java).
 - Enhanced Version[ContactService.java](https://github.com/SkunkApe1/SkunkApe1.github.io/blob/main/ContactService.java).
 
- ###### Narrative:
+###### Narrative: 
  
  In this narrative I will be explaining the enhancements I have made to my final project java code for CS320: Software Testing, Automation, and Quality Assurance. I will do this by answering the following prompts; first I will briefly describe the artifact, what it was and when it was created. Next, I will justify the inclusion of the artifact into my ePortfolio. Why I selected the item, what specific components of the artifact showcase my skills and abilities and how the artifact has improved. Thirdly, I will state if I met course outcomes, I wanted to meet in Module One. Additionally, do I have any updates on my outcome-coverage plans. Finally, I will reflect on the process of enhancing and modifying the artifact. I will state what I learned as I was creating it and what challenges I faced. 
 	
