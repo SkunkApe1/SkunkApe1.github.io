@@ -49,7 +49,7 @@ Part 3: Databases
 
 **Enhanced**
 - Enhanced Version [Contact.java](https://github.com/SkunkApe1/SkunkApe1.github.io/blob/main/Contact.java).
-- Enhanced Version[ContactService.java](https://github.com/SkunkApe1/SkunkApe1.github.io/blob/main/ContactService.java).
+- Enhanced Version [ContactService.java](https://github.com/SkunkApe1/SkunkApe1.github.io/blob/main/ContactService.java).
 
 ###### Narrative: 
  
