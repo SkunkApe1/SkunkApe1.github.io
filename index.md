@@ -8,8 +8,11 @@ My name is Graham Swenson and I am a Computer Science student at Southern New Ha
 2. Code Review
 
 3. Artifacts
+   
    	- Part 1: Software Design and Engineering
+   	  
    	- Part 2: Algorithms and Data Structures
+   	  
    	- Part 3: Databases
    
 
