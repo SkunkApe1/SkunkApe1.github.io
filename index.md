@@ -1,5 +1,5 @@
 # **Graham Swenson - ePortfolio**
-**CS-499 . SNHU . OCT 2024**
+>**CS-499 . SNHU . OCT 2024**
 
 My name is Graham Swenson and I am a Computer Science student at Southern New Hampshire University. I am excited to show you a culmination of the experience I've gained during my studies. In this ePortfolio you will see the following sections.
 
@@ -18,6 +18,17 @@ Insert Here
 ## **Artifacts**
 
 ### **Part 1: Software Design and Engineering**
+
+This section is reference the following code:
+
+**Original**
+- Original [Original Contact.java]
+- Oritinal [Original ContactService.java]
+
+**Enhanced**
+- Enhanced Version [Contact.java] (https://github.com/SkunkApe1/SkunkApe1.github.io/blob/main/Contact.java).
+
+- Enhanced Version[ContactService.java] (https://github.com/SkunkApe1/SkunkApe1.github.io/blob/main/ContactService.java).
  
  In this narrative I will be explaining the enhancements I have made to my final project java code for CS320: Software Testing, Automation, and Quality Assurance. I will do this by answering the following prompts; first I will briefly describe the artifact, what it was and when it was created. Next, I will justify the inclusion of the artifact into my ePortfolio. Why I selected the item, what specific components of the artifact showcase my skills and abilities and how the artifact has improved. Thirdly, I will state if I met course outcomes, I wanted to meet in Module One. Additionally, do I have any updates on my outcome-coverage plans. Finally, I will reflect on the process of enhancing and modifying the artifact. I will state what I learned as I was creating it and what challenges I faced. 
 	
