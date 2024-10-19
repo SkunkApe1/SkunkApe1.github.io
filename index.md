@@ -21,7 +21,10 @@ Insert Here
 ---
 
 ## **Code Review** 
-The following section are hyperlinks link to the code review performed for each of the original code used in the three artifacts. *It should be noted that you must download the .mp4 files to listen*
+The following section are hyperlinks link to the code review performed for each of the original code used in the three artifacts. *It should be noted that you must download the .mp4 files to listen.*
+
+###### Background:
+I wanted to perform a code review so that I could gain an encompassing picture of what I was working with. The following code review was instrumental in ensuring that I knew what needed to be enhanced. I was able to quickly ascertain what gaps I had in my code and what improvements could be made.
 
 Part 1: Software Design and Engineering
 - Download and Listen [Code Review 1 - OriginalContact.java and OriginalContactService.java](https://github.com/SkunkApe1/SkunkApe1.github.io/blob/main/CS499%20Section%201%20Final.mp4)
