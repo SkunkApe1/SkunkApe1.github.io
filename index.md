@@ -40,6 +40,7 @@ Insert Here
 - Enhanced Version[ContactService.java](https://github.com/SkunkApe1/SkunkApe1.github.io/blob/main/ContactService.java).
 
  ###### Narrative:
+ 
  In this narrative I will be explaining the enhancements I have made to my final project java code for CS320: Software Testing, Automation, and Quality Assurance. I will do this by answering the following prompts; first I will briefly describe the artifact, what it was and when it was created. Next, I will justify the inclusion of the artifact into my ePortfolio. Why I selected the item, what specific components of the artifact showcase my skills and abilities and how the artifact has improved. Thirdly, I will state if I met course outcomes, I wanted to meet in Module One. Additionally, do I have any updates on my outcome-coverage plans. Finally, I will reflect on the process of enhancing and modifying the artifact. I will state what I learned as I was creating it and what challenges I faced. 
 	
  In this first section, I will briefly describe the artifact I am using for the Software Design and Engineering section. I am using my java code from the CS320: Software Testing, Automation, and Quality Assurance class. The java code I originally created for the class was for the purpose of testing the code, therefore the code lacks certain aspects one would see as standard for the type of program developed. The java code creates an arrayed list of contact information for people. Which in turn has a separate java class that manages this arrayed list. This was a set of java classes we used in the course to test, I believe using JUnit tests. This was created approximately a year or two ago for my coursework.
@@ -63,6 +64,7 @@ Insert Here
 - Enhanced [gpiointerrupt.c](https://github.com/SkunkApe1/SkunkApe1.github.io/blob/main/gpiointerrupt.c)
 
 ###### Narrative: 
+
  In this narrative I will discussing the following prompts; first I will briefly describe the artifact. Secondly, I will justify the inclusion of the artifact in my ePortfolio. I will say why I selected the item, what specific components of the artifact showcase my skills and abilities for algorithms and data structure. Then, I will state if I met course outcomes that I planned to meet in my Module One outline; I will also provide any updates to my outcome-coverage plans. Finally, I will reflect on the process of enhancing and modifying the artifact. What did I learn as I was creating it and improving it.
 	
  First, I will describe the artifact; this C code is code I used in the course CS350: Emerging Systems, Architectures, and Technologies to provide logic for an embedded controller. Specifically, this code is used to control a Texas Instruments micro-controller that displays different flashing lights based off the temperature. This was created a year ago by me for this course, with aid from the course work. 
@@ -85,6 +87,7 @@ Insert Here
 - Enhanced [PetCheckInSystem.java](https://github.com/SkunkApe1/SkunkApe1.github.io/blob/main/PetCheckInSystem.java)
 
 ###### Narrative: 
+
  In this narrative I will provide an overview of my third artifact, that being the category of databases. I will describe what I used and how I enhanced it. I will do this by first describing what the original artifact is and when it was created. Next, I will justify the including of the artifact into my ePortfolio, why I selected the item, what specific components I wanted to showcase and how the artifact improved. Then, I will state How I met the course outcomes I planned to meet in module one. Then, I will state if I have any update to my outcome-coverage plan. Finally, I will end this reflection by reflecting on the process of enhancing and modifying the artifact. 
 	
  In this first paragraph I will describe the original artifact and when it was created. The original artifact was from my class IT145: Foundation in Application Development. This final project was a paper where one of the tasks I did was to complete pseudocode for a java database. This java database was to obtain information for a pet hotel that could watch your dogs or cats. This class was taken very early on in the coursework I completed to get my bachelor’s degree. Looking back at my academic evaluation, I completed this class in the winter of 2022. 
