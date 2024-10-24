@@ -1,7 +1,7 @@
 # **Graham Swenson - ePortfolio**
 >**CS-499 . SNHU . OCT 2024**
 
-To whom it may concern, I am excited to show you a culmination of the experience I've gained during my studies. In this ePortfolio you will see the following sections. Here are the folllowing sections in this ePortfolio:
+To whom it may concern, I am excited to show you a culmination of the experience I've gained during my studies. Here are the folllowing sections in this ePortfolio:
 
 1. Professional Self-Assessment
 
